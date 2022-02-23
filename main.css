@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+}
+.conatiner {
+    max-width: 1440px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.book {
+    display: flex;
+    justify-content:center;
+    font-size: 100px;
+    margin-top: 50px;
+    
+}
+.dunyo {
+    padding-right: 50px;
+}
